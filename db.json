@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "genre": "Crime, Drama",
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+      "poster": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.0,
+      "genre": "Action, Crime, Drama",
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "poster": "https://m.media-amazon.com/images/I/51k0qaXBneL._AC_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.9,
+      "genre": "Crime, Drama",
+      "director": "Quentin Tarantino",
+      "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+      "poster": "https://m.media-amazon.com/images/I/51n-QEHhZDL._AC_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Schindler's List",
+      "year": 1993,
+      "rating": 8.9,
+      "genre": "Biography, Drama, History",
+      "director": "Steven Spielberg",
+      "actors": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
+      "poster": "https://m.media-amazon.com/images/I/41UgWX2+NvL._AC_.jpg"
+    }
+  ]
+}
