@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Fetch all movies initially to populate the list
-    fetch('http://localhost:3000/movies')
+    fetch('https://phase1-backend-sigma.vercel.app/movies')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
