@@ -50,4 +50,7 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 ### License
 This project is licensed under the MIT License.
+### TO RUN
+To run this page you can click on the link below
+https://phase1-project-gamma.vercel.app/
 
